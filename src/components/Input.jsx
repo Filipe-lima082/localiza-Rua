@@ -17,7 +17,7 @@ const Input = () => {
   }
 
   return (
-    <form className="form" onSubmit={(event) => event.preventDefault()}>
+    <form className="form anime-left" onSubmit={(event) => event.preventDefault()}>
       <input
         autoFocus
         type="text"

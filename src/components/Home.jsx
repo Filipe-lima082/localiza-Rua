@@ -31,7 +31,7 @@ const Home = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Localiza Rua</h1>
+      <h1 className="title anime-left">Localiza Rua</h1>
       <Input />
 
       {data && (
