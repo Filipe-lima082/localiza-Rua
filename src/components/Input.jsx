@@ -18,6 +18,7 @@ const Input = () => {
 
   return (
     <form className="form anime-left" onSubmit={(event) => event.preventDefault()}>
+      <p>Informe seu cep sem acentos.</p>
       <input
         autoFocus
         type="text"
